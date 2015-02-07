@@ -1,4 +1,4 @@
-# mdeditor {#project}
+# mdeditor {.project}
 A PHP-based markdown editor widget offering a live preview (based on [Emanuil Rusev's Markdown Extra Parser](https://github.com/erusev/markdown-extra))
 
 ## Overview ##
