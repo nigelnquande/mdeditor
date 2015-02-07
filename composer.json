@@ -1,0 +1,17 @@
+{
+	"name": "nigelnquande/mdeditor",
+	"description": "A PHP-based markdown editor widget offering a live preview, based on Emanuil Rusev's Markdown Extra Parser",
+	"keywords": ["markdown", "editor", "widget", "HTML"],
+	"license": "GPL",
+	"authors": [
+        {
+            "name": "Nigel Nquande",
+            "email": "nigel.nquande@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.14",
+        "erusev/parsedown-extra": "dev-master",
+        "tecnick.com/tcpdf": ">=6.2.0"
+    }
+}
