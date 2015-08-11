@@ -1,17 +1,17 @@
 # mdeditor
-A PHP-based markdown editor widget offering a live preview (based on [Emanuil Rusev's Markdown Extra Parser](https://github.com/erusev/markdown-extra))
+A PHP-based markdown editor widget offering a live preview (based on [Emanuil Rusev's Parsedown Extra Parser](https://github.com/erusev/parsedown-extra))
 
 ## Overview ##
 
 This markdown editor allows you to insert a markdown editor widget (text area with live preview) into a form. The live preview is updated as text is entered into the text area.
 
-Through the use of [Emanuil Rusev's Markdown Extra Parser](https://github.com/erusev/parsedown-extra)  library, the editor supports Markdown Extra and Github-flavoured Markdown.
+Through the use of [Emanuil Rusev's Parsedown Extra Parser](https://github.com/erusev/parsedown-extra) library, the editor supports Markdown Extra and Github-flavoured Markdown.
 
 ## Conversion ##
 
 The conversion comes in one of two formats:
 
-1. HTML (default), via [Emanuil Rusev's Markdown Extra Parser](https://github.com/erusev/parsedown-extra) library
+1. HTML (default), via [Emanuil Rusev's Parsedown Extra Parser](https://github.com/erusev/parsedown-extra) library
 2. PDF, via Parsedown Extra and Nicola Asuni's [TCPDF](http://www.tcpdf.org/)
 
 ### Parameters ###
